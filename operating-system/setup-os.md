@@ -78,19 +78,19 @@
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>กดเลือก Custom: Install Windoes only (advanced) </p></figcaption></figure>
 
-5.5
+5.5 เลือก Drive และกด Next
+
+(!) แนะนำหากมีเพียงแค่ลูกเดียวให้ Next ไปก่อนได้เลย และหากต้องการแบ่ง  Drive สามารถไปแบ่งภายหลังได้
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>กดเลือก Drive</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
-
-5.6
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
