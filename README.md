@@ -12,13 +12,29 @@
 
 3.1 รอจนอ่านไฟล์เส็จร
 
-![](<.gitbook/assets/image (2) (1).png>)![](<.gitbook/assets/image (1) (1).png>)
+<div>
+
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3.2 กดปุ่ม Next ด้านล่างขวา และ กดปุ่ม Install Now ตรงกลาง
 
 (!) แนะนำให้ กด Next ไปเลย แล้วค่อยไปตั้งค่าเพิ่มภาษาของภูมิภาค  เราที่หลัง หากประเทศเราใช้ภาษากลางเป็น ภาษา English
 
-![](<.gitbook/assets/image (7).png>)![](<.gitbook/assets/image (3) (1).png>)
+<div>
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## 5.Windoes Install Last Step
 
@@ -26,15 +42,39 @@
 
 (!) สำหรับ ไม่มี Key สำหรับ Active Windoes ไม่ต้องใส่
 
-![](<.gitbook/assets/image (4) (1).png>)![](<.gitbook/assets/image (2) (2).png>)
+<div>
+
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5.2 เลือกเป็น Windoes 2019 Standard (Desktop Experience) และกด Next ด้านล่างซ้ายขวา
 
-![](<.gitbook/assets/image (2).png>)![](<.gitbook/assets/image (8).png>)
+<div>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5.3
 
-![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (6).png>)
+<div>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5.4
 
@@ -47,3 +87,4 @@
 5.6
 
 ![](<.gitbook/assets/image (1).png>)
+
