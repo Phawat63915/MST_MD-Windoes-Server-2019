@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Setup OS](README.md)
 * [Page 5](page-5.md)
 
 ## Group 1
 
-* [Page 2rr](group-1/page-2rr.md)
+* [Page 2rr](<README (1).md>)
 
 ## Group 2
 
-* [Page 3rrrr](group-2/page-3rrrr.md)
+* [Page 3rrrr](group-2/page-3.md)
 
 ## Group 3
 
