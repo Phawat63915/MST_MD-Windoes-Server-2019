@@ -62,15 +62,15 @@
 
 </div>
 
-5.3
+5.3 ติด CheckBox I accept the license terns ด้านล่างซ้าย และ กดปุ่ม Next ด้านล่างขวา
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>ติก CheckBox I accept the license terns</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
