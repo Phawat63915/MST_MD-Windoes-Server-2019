@@ -74,15 +74,23 @@
 
 </div>
 
-5.4
+5.4 กดเลือก Custom: Install Windoes only (advanced)
 
-![](<../.gitbook/assets/image (5).png>)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>กดเลือก Custom: Install Windoes only (advanced) </p></figcaption></figure>
 
 5.5
 
-![](<../.gitbook/assets/image (4).png>)![](../.gitbook/assets/image.png)
+<div>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5.6
 
-![](<../.gitbook/assets/image (1).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
