@@ -8,7 +8,7 @@
 
 ให้เข้าหน้า BISO ด้วย F8, F9, F10, F11, F12 หรือ เลือก Boot กด Del และเลือกเป็น ISO File ที่เราเตรียมา
 
-## 3.Windoes Setup First Step
+## 3.Windoes Install First Step
 
 3.1 รอจนอ่านไฟล์เส็จร
 
@@ -20,7 +20,7 @@
 
 ![](<.gitbook/assets/image (7).png>)![](<.gitbook/assets/image (3) (1).png>)
 
-## 5.Windoes SetUp Last Step
+## 5.Windoes Install Last Step
 
 5.1 กดที่ I don't have product key ด้านล่างซ้าย
 
