@@ -16,11 +16,11 @@
 
 ## 4.Windoes Setup
 
-กดปุ่ม Next ด้านล่างขวา
+กดปุ่ม Next ด้านล่างขวา และ กด Install Now ปุ่ม ตรงกลาง
 
 (!) แนะนำให้ กด Next ไปเลย แล้วค่อยไปตั้งค่าเพิ่มภาษาของภูมิภาค  เราที่หลัง หากประเทศเราใช้ภาษากลางเป็น ภาษา English
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image.png)![](<.gitbook/assets/image (3).png>)
 
 ###
 
