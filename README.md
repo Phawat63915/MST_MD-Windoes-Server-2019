@@ -12,7 +12,7 @@
 
 รอจนอ่านไฟล์เส็จร
 
-![](<.gitbook/assets/image (2) (1).png>)![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (2) (1).png>)![](<.gitbook/assets/image (1) (1).png>)
 
 ## 4.Windoes Setup First Step
 
@@ -20,12 +20,16 @@
 
 (!) แนะนำให้ กด Next ไปเลย แล้วค่อยไปตั้งค่าเพิ่มภาษาของภูมิภาค  เราที่หลัง หากประเทศเราใช้ภาษากลางเป็น ภาษา English
 
-<img src=".gitbook/assets/image.png" alt="" data-size="original">![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (5).png>)![](<.gitbook/assets/image (3).png>)
 
 ## 5.Windoes SetUp Last Step
 
-กดที่ I don't have product key ด้านล่างซ้ายและ และ
+5.1 กดที่ I don't have product key ด้านล่างซ้าย
 
-กด  หากไม่มี Key สำหรับ Active Windoes
+(!) สำหรับ ไม่มี Key สำหรับ Active Windoes ไม่ต้องใส่
 
 ![](<.gitbook/assets/image (4).png>)![](<.gitbook/assets/image (2).png>)
+
+5.2&#x20;
+
+![](<.gitbook/assets/image (1).png>)
