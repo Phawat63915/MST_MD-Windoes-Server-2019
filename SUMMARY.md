@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Setup OS](README.md)
+* [Welcome](README.md)
+* [SetUp OS](<README (1).md>)
