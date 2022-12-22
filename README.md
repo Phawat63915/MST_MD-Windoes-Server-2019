@@ -28,7 +28,7 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>กดปุ่ม Next ด้านล่างขวา และ กดปุ่ม Install Now ตรงกลาง</p></figcaption></figure>
 
  
 
@@ -52,7 +52,7 @@
 
 </div>
 
-5.2 เลือกเป็น Windoes 2019 Standard (Desktop Experience) และกด Next ด้านล่างซ้ายขวา
+5.2 เลือกเป็น Operation system: Windoes 2019 Standard (Desktop Experience) และกด Next ด้านล่างซ้ายขวา
 
 <div>
 
