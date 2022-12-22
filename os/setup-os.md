@@ -1,4 +1,4 @@
-# Setup OS
+# SetUp OS
 
 ## 1.Download IOS File Windoes Server 2019
 
@@ -12,11 +12,11 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,11 +26,11 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>กดปุ่ม Install Now</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>กดปุ่ม Install Now</p></figcaption></figure>
 
 </div>
 
@@ -42,11 +42,11 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption><p>กด I don't have product key สีฟ้า</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>กด I don't have product key สีฟ้า</p></figcaption></figure>
 
 </div>
 
@@ -54,11 +54,11 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>เลือก Windoes 2019 Standard (Desktop Experience)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>เลือก Windoes 2019 Standard (Desktop Experience)</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
@@ -66,23 +66,23 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 5.4
 
-![](<.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 5.5
 
-![](<.gitbook/assets/image (4).png>)![](.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)![](../.gitbook/assets/image.png)
 
 5.6
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
