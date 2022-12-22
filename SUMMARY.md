@@ -2,6 +2,6 @@
 
 * [Welcome](README.md)
 
-## OS
+## Operating System
 
-* [SetUp OS](os/setup-os.md)
+* [SetUp OS](operating-system/setup-os.md)
