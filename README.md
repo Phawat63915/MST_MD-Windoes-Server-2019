@@ -8,19 +8,17 @@
 
 ให้เข้าหน้า BISO ด้วย F8, F9, F10, F11, F12 หรือ เลือก Boot กด Del และเลือกเป็น ISO File ที่เราเตรียมา
 
-## 3.Wait Loading ...
+## 3.Windoes Setup First Step
 
-รอจนอ่านไฟล์เส็จร
+3.1 รอจนอ่านไฟล์เส็จร
 
 ![](<.gitbook/assets/image (2) (1).png>)![](<.gitbook/assets/image (1) (1).png>)
 
-## 4.Windoes Setup First Step
-
-กดปุ่ม Next ด้านล่างขวา และ กดปุ่ม Install Now ตรงกลาง
+3.2 กดปุ่ม Next ด้านล่างขวา และ กดปุ่ม Install Now ตรงกลาง
 
 (!) แนะนำให้ กด Next ไปเลย แล้วค่อยไปตั้งค่าเพิ่มภาษาของภูมิภาค  เราที่หลัง หากประเทศเราใช้ภาษากลางเป็น ภาษา English
 
-![](<.gitbook/assets/image (5).png>)![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (7).png>)![](<.gitbook/assets/image (3) (1).png>)
 
 ## 5.Windoes SetUp Last Step
 
@@ -28,8 +26,24 @@
 
 (!) สำหรับ ไม่มี Key สำหรับ Active Windoes ไม่ต้องใส่
 
-![](<.gitbook/assets/image (4).png>)![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (4) (1).png>)![](<.gitbook/assets/image (2) (2).png>)
 
-5.2&#x20;
+5.2 เลือกเป็น Windoes 2019 Standard (Desktop Experience) และกด Next ด้านล่างซ้ายขวา
+
+![](<.gitbook/assets/image (2).png>)![](<.gitbook/assets/image (8).png>)
+
+5.3
+
+![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (6).png>)
+
+5.4
+
+![](<.gitbook/assets/image (5).png>)
+
+5.5
+
+![](<.gitbook/assets/image (4).png>)![](.gitbook/assets/image.png)
+
+5.6
 
 ![](<.gitbook/assets/image (1).png>)
