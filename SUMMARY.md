@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Setup OS](README.md)
-* [Page 5](page-5.md)
 
 ## Group 1
 
