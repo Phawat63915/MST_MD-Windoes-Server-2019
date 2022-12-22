@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Group 1
 
-* [Page 2](README.md)
+* [Page 2](<README (1).md>)
 
 ## Group 2
 
