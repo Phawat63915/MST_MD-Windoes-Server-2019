@@ -5,6 +5,8 @@
 ## Operating System
 
 * [SetUp OS](operating-system/setup-os.md)
+* [Control Panel](operating-system/control-panel/README.md)
+  * [Windows Defender Firewall](operating-system/control-panel/windows-defender-firewall.md)
 
 ## Software
 
