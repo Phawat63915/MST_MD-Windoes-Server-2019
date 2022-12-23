@@ -18,5 +18,3 @@
   * [Management Studio](software/sql-server/management-studio/README.md)
     * [19](software/sql-server/management-studio/19/README.md)
       * [Install](software/sql-server/management-studio/19/install.md)
-    * [18](software/sql-server/management-studio/18/README.md)
-      * [Install](software/sql-server/management-studio/18/install.md)
