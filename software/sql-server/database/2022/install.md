@@ -72,4 +72,46 @@
 
 </div>
 
-3.3
+3.3 กดปุ่ม Next และ กดปุ่ม Next
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (28).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (30).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+</div>
+
+3.4
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (31).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (32).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+3.5
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (37).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (38).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (39).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (40).png" alt=""><figcaption></figcaption></figure>
+
+</div>
