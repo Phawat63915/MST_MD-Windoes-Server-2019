@@ -134,6 +134,8 @@
 
 3.7 เลือก Radio Button ที่ Mix Mode (SQL Server authentiction and Windoes authentiction) และใส่รหัสผ่าน และ กดปุ่ม Add Current User และกดปุ่ม Next
 
+(!) สำหรับเพิ่ม Add Current User หากเป็นการทดสอบหรือไม่ได้ ขึ้น Product เราเพิ่มแค่ User เดียวก็เพียงพอแล้ว ส่วน Mix Mode (SQL Server authentiction and Windoes authentiction) หากต้องการลง Database ที่  Server เราควร ตั้ง User ผู้ใช้แบบไม่ใช้อันบนเพราะว่า จะทำให้สามารถ login ผ่าน User SA ได้ง่ายกว่า
+
 <div>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot (49).png" alt=""><figcaption><p>กดติด Radio Button Mix Mode (SQL Server authentiction and Windoes authentiction)</p></figcaption></figure>
