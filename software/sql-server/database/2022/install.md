@@ -118,4 +118,36 @@
 
 </div>
 
-3.6
+3.6 กดปุ่ม Next และกดปุ่ม Next
+
+(!) หากต้องการเปลี่ยนชื่อ Instance สามารถเปลี่ยน radio button ไปเป็น  Named Instance ได้และเปลี่ยน ชื่อตรง Input และ เปลี่ยน Instance ID ตรง Input ที่ 2&#x20;
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (44).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (47).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+3.7 &#x20;
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (49).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (50).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (51).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (52).png" alt=""><figcaption></figcaption></figure>
+
+</div>
