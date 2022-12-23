@@ -1,6 +1,6 @@
 # Windows Defender Firewall
 
-## 1.Windoes Debfender Firewall with Advanced Security
+1.Windoes Debfender Firewall with Advanced Security
 
 1.1 ค้นหาโปรแกรม Control Panel
 
@@ -33,3 +33,41 @@
 1.4 เลือก Actions เป็น New Rule..
 
 <figure><img src="../../.gitbook/assets/Screenshot (109).png" alt=""><figcaption></figcaption></figure>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot (111).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (113).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (114).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (116).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot (117).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (118).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (119).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (120).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-12-23 170009.png" alt=""><figcaption></figcaption></figure>
