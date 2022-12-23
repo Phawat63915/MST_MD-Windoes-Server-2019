@@ -84,31 +84,33 @@
 
 </div>
 
-3.4
+3.4 เอากดติด CheckBox Azure Extension for SQL Server ออก และ กดปุ่ม Next
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (31).png" alt=""><figcaption><p>ติด CheckBox Azure Extension for SQL Server ออก</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (32).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
-3.5
+3.5 ติด CheckBox หัวข้อ Instance Features ที่ Database Engine Services และ ติด CheckBox ที่ Full-Text and Semantic Extractions for Search จากนั้น กดปุ่ม Next
+
+(!) ปกติหลักๆ ถ้าไม่ได่ทำอะไรมากจะใช้แค่สองตัวเลือกที่ติด CheckBox นี้ไป
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (37).png" alt=""><figcaption><p>ติก CheckBox Database Engine</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (38).png" alt=""><figcaption><p>ติด CheckBox Full-Text and Semantic Extractions for Search</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (39).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
