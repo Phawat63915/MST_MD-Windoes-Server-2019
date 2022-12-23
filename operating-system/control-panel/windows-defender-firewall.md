@@ -34,40 +34,46 @@
 
 <figure><img src="../../.gitbook/assets/Screenshot (109).png" alt=""><figcaption></figcaption></figure>
 
-<div>
-
-<figure><img src="../../.gitbook/assets/Screenshot (111).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot (113).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot (114).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot (116).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+1.5 เลือก What type of rule would like to create? เป็น port และกดปุ่ม Next และ ใส่ Specific local ports เป็น 1433 และ กดปุ่ม Next
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (111).png" alt=""><figcaption><p>เลือก Type port</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (113).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (114).png" alt=""><figcaption><p> ใส่ port เป็น 1433</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (116).png" alt=""><figcaption><p>กดปุ่ม  Next</p></figcaption></figure>
 
 </div>
+
+1.6 กดปุ่ม Next และ กดปุ่ม Next และ ตั้งชื่อกฏ Name: เช่น Sql Server และ กดปุ่ม Finish
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot (117).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (118).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (119).png" alt=""><figcaption><p>ตั้งชื่อกฏ Name: เช่น Sql Server</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot (120).png" alt=""><figcaption><p>กดปุ่ม Finish</p></figcaption></figure>
+
+</div>
+
+เเรียบร้อย เครื่องอื่นๆ สามารถเชื่อมต่อได้แล้ว
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-12-23 170009.png" alt=""><figcaption></figcaption></figure>
