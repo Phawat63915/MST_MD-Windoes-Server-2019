@@ -1,6 +1,6 @@
 # Network Protocols
 
-## Config TCP/IP
+## 1.Config TCP/IP
 
 1.1 เปิดปีกกา SQL Server Network Configguration และเลือกเมนู Protocols for \*\*\*\*\*\*\*\*
 
@@ -55,5 +55,7 @@
 <figure><img src="../../../../../.gitbook/assets/Screenshot (91).png" alt=""><figcaption><p>กดปุ่ม ok</p></figcaption></figure>
 
 </div>
+
+## End Step
 
 (!) ทุกครั้งที่ตั้งค่าต้อง ไป Restart Services ด้วยเพื่อให้ตั้งค่าถูกอัพเดท
