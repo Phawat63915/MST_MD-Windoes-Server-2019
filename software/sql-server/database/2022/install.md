@@ -132,22 +132,44 @@
 
 </div>
 
-3.7 &#x20;
+3.7 เลือก Radio Button ที่ Mix Mode (SQL Server authentiction and Windoes authentiction) และใส่รหัสผ่าน และ กดปุ่ม Add Current User และกดปุ่ม Next
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (49).png" alt=""><figcaption><p>กดติด Radio Button Mix Mode (SQL Server authentiction and Windoes authentiction)</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (50).png" alt=""><figcaption><p>ใส่รหัสสผ่าน</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (51).png" alt=""><figcaption><p>ใส่รหัสผ่าน</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (52).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+</div>
+
+3.8 กดปุ่ม Install
+
+(!) หากไม่ต้องการติดตั้งใดๆ แล้วสามารถปิดได้เลย
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (53).png" alt=""><figcaption><p>กดปุ่ม Install</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (55).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (57).png" alt=""><figcaption><p>กดปุ่ม Close</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (60).png" alt=""><figcaption><p>กดปุ่ม ปิด </p></figcaption></figure>
 
 </div>
