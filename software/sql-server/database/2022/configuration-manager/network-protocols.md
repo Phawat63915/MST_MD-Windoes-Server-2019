@@ -1,6 +1,6 @@
 # Network Protocols
 
-## 1.Open TCP/IP
+## 1.Config TCP/IP
 
 1.1 เปิดปีกกา SQL Server Network Configguration และเลือกเมนู Protocols for \*\*\*\*\*\*\*\*
 
@@ -22,11 +22,21 @@
 
  
 
+<figure><img src="../../../../../.gitbook/assets/Screenshot (76).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
 <figure><img src="../../../../../.gitbook/assets/Screenshot (79).png" alt=""><figcaption></figcaption></figure>
 
  
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot (80).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot (88).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -34,12 +44,14 @@
 
 </div>
 
+1.3 กดปุ่ม ok และ กดปุ่ม ok
+
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (90).png" alt=""><figcaption><p>กดปุ่ม ok</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (91).png" alt=""><figcaption><p>กดปุ่ม ok</p></figcaption></figure>
 
 </div>
