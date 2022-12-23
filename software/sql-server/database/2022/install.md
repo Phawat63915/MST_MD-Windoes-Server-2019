@@ -44,14 +44,30 @@
 
 </div>
 
-## 3.Setting
+## 3.Config
+
+3.1 เลือก Specify a free edtion เป็น Developer
+
+(!) Developer แนะนำให้เลือกเป็นอันนี้ ในกรณีที่ใช้ในการทดสอบเท่าเท่านั้น ไม่แนะนำให้นำไปใช้ตอนขึ้น Product
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (23).png" alt=""><figcaption><p>เลือก Specify a free edtion เป็น Developer</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (24).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+
+</div>
+
+3.2
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (25).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (26).png" alt=""><figcaption></figcaption></figure>
 
 </div>
