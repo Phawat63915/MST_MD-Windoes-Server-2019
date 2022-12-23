@@ -60,14 +60,16 @@
 
 </div>
 
-3.2
+3.2 ติด CheckBox I accept the license terms and Privacy Statment และ กดปุ่ม Next
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (25).png" alt=""><figcaption><p>ติด CheckBox I accept the license terms and Privacy Statment</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (26).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
+
+3.3
