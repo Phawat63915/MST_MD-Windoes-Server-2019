@@ -18,19 +18,28 @@
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (71).png" alt=""><figcaption><p>กดดับเบิ้ลคลิก เปิด TCP/IP</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (71).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (79).png" alt=""><figcaption><p>เลือก เมนู IP Addresses</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (79).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (80).png" alt=""><figcaption><p>ลื่นหา IP4</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (80).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (88).png" alt=""><figcaption><p>ปรับ IP4 Enabled เป็น Yes</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (89).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
+<div>
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot (90).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../.gitbook/assets/Screenshot (91).png" alt=""><figcaption></figcaption></figure>
+
+</div>
