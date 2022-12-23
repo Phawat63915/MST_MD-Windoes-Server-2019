@@ -1,10 +1,10 @@
 # Install
 
-## 1.Downlaod Sql Server
+## 1.Downlaod
 
 {% embed url="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" %}
 
-## 2.Install Sql Server
+## 2.Install
 
 2.1 กดเปิดตัวติดตั้ง และ เลือกติดตั้งแบบ Custom
 
@@ -44,7 +44,7 @@
 
 </div>
 
-
+## 3.Setting
 
 <div>
 
