@@ -14,33 +14,33 @@
 
 </div>
 
-1.2 กดดับเบิ้ลคลิก เปิด TCP/IP ขึ้นมาและปรับ Enabled และ เลือก เมนู IP Addresses ลื่นลงหา IP4 ปรับ IP4 Enabled เป็น Yes
+1.2 กดดับเบิ้ลคลิก เปิด TCP/IP ขึ้นมาและปรับ Enabled เป็น Yes และ เลือก เมนู IP Addresses ลื่นลงหา IP4 ปรับ IP4 Enabled เป็น Yes
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (71).png" alt=""><figcaption><p>กดดับเบิ้ลคลิก เปิด TCP/IP</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (76).png" alt=""><figcaption><p>ปรับ Enabled เป็น Yes</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (79).png" alt=""><figcaption><p>เมนู IP Addresses</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (80).png" alt=""><figcaption><p>ลื่นลงหา IP4 ปรับ IP4</p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (88).png" alt=""><figcaption><p>ปรับ Enabled เป็น Yes</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (89).png" alt=""><figcaption><p>กดปุ่ม Apply</p></figcaption></figure>
 
 </div>
 
