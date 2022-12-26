@@ -178,7 +178,7 @@
 
 ## End Step
 
-หากเราต้องการ Remote มาจากเครื่องอื่นๆ เราจะต้องเปิด PORT ใน Firewall ก่อนเพื่อให้ TCP/IP ภายนอกสามารถ่านเข้ามาได้ดั้งนั้นเราจะต้องทำตามหัวข้อ Windoes defender Firewall หรือ กดด้านล่างเพื่อไป
+หากเราต้องการ Remote มาจากเครื่องอื่นๆ เราจะต้องเปิด PORT ใน Firewall ก่อนเพื่อให้ TCP/IP ภายนอกสามารถเข้ามาได้ดั้งนั้นเราจะต้องทำตามหัวข้อ Windoes defender Firewall หรือ กดด้านล่างเพื่อไป
 
 {% content-ref url="../../../../operating-system/control-panel/windows-defender-firewall.md" %}
 [windows-defender-firewall.md](../../../../operating-system/control-panel/windows-defender-firewall.md)
