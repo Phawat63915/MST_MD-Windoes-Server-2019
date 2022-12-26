@@ -118,7 +118,7 @@
 
 </div>
 
-3.6 กดปุ่ม Next และกดปุ่ม Next
+3.6 กดปุ่ม Next และ กดไปที่หัวข้อ Collation และกดไปที่ Customize และ เลือก Windoes collation designator and sort order
 
 (!) หากต้องการเปลี่ยนชื่อ Instance สามารถเปลี่ยน radio button ไปเป็น  Named Instance ได้และเปลี่ยน ชื่อตรง Input และ เปลี่ยน Instance ID ตรง Input ที่ 2&#x20;
 
@@ -128,23 +128,23 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (1) (1).png" alt=""><figcaption><p>กดที่หัวข้อ Collation</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (2).png" alt=""><figcaption><p>กดปุ่ม Customize</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (3).png" alt=""><figcaption><p>เลือก Windoes collation designator and sort order</p></figcaption></figure>
 
 </div>
 
-3.7
+3.7 เลือก Collation designator เป็น Thai และ กดปุ่ม ok จะได้เป็น Thai\_CI\_AI และ กดปุ่ม Next
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (5).png" alt=""><figcaption><p>เลือก Collation designator เป็น Thai </p></figcaption></figure>
 
  
 
@@ -152,11 +152,11 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (7) (1).png" alt=""><figcaption><p>กดปุ่ม Ok</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (8).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
