@@ -10,7 +10,7 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (6) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -36,11 +36,11 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (20).png" alt=""><figcaption><p>เลือกหัวข้อ Installation</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (20) (1).png" alt=""><figcaption><p>เลือกหัวข้อ Installation</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (21).png" alt=""><figcaption><p> กดเลือก New Sql Server standalone Installation or add features to an eisting installation เพื่อทำการติดตั้ง</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (21) (1).png" alt=""><figcaption><p> กดเลือก New Sql Server standalone Installation or add features to an eisting installation เพื่อทำการติดตั้ง</p></figcaption></figure>
 
 </div>
 
