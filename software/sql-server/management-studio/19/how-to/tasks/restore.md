@@ -1,22 +1,6 @@
 # Restore
 
-<div>
-
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (91) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (92) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (93) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../../../../../../.gitbook/assets/Screenshot (94).png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 <div>
 
