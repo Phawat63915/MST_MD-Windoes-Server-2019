@@ -22,7 +22,7 @@
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (76) (1).png" alt=""><figcaption><p>ปรับ Enabled เป็น Yes</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (76).png" alt=""><figcaption><p>ปรับ Enabled เป็น Yes</p></figcaption></figure>
 
  
 
