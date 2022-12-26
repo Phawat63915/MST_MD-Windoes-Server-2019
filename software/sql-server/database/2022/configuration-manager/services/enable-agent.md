@@ -20,7 +20,7 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (14) (2).png" alt=""><figcaption></figcaption></figure>
 
  
 

@@ -14,7 +14,7 @@
 
 เราสามารถพิมค้นหาชื่อโปรแกรมเพื่อเปิดโปรแกรมได้
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (7) (1) (1).png" alt=""><figcaption><p>ค้นหาโปรแกรมและเปิด</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (7) (1) (1) (1).png" alt=""><figcaption><p>ค้นหาโปรแกรมและเปิด</p></figcaption></figure>
 
 ## 2. How to Remote & Connect Database by Sql Server Management Studio
 
@@ -32,7 +32,7 @@
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (18).png" alt=""><figcaption><p>ใส่ Username</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (18) (2).png" alt=""><figcaption><p>ใส่ Username</p></figcaption></figure>
 
  
 

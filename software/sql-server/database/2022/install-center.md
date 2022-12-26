@@ -144,7 +144,7 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (5).png" alt=""><figcaption><p>เลือก Collation designator เป็น Thai </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (5) (1).png" alt=""><figcaption><p>เลือก Collation designator เป็น Thai </p></figcaption></figure>
 
  
 
@@ -152,7 +152,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (7) (1).png" alt=""><figcaption><p>กดปุ่ม Ok</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (7) (1) (1).png" alt=""><figcaption><p>กดปุ่ม Ok</p></figcaption></figure>
 
  
 
