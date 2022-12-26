@@ -31,3 +31,4 @@
           * [Restore](software/sql-server/management-studio/19/how-to/tasks/restore.md)
           * [Import Flat File Excel](software/sql-server/management-studio/19/how-to/tasks/import-flat-file-excel.md)
         * [Delete Database](software/sql-server/management-studio/19/how-to/delete-database.md)
+        * [Auto backups](software/sql-server/management-studio/19/how-to/auto-backups.md)
