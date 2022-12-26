@@ -14,7 +14,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (8).png" alt=""><figcaption><p>กดหัวข้อ Custom</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (8) (1).png" alt=""><figcaption><p>กดหัวข้อ Custom</p></figcaption></figure>
 
 </div>
 
@@ -128,11 +128,39 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-3.7 เลือก Radio Button ที่ Mix Mode (SQL Server authentiction and Windoes authentiction) และใส่รหัสผ่าน และ กดปุ่ม Add Current User และกดปุ่ม Next
+3.7
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (5).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (6).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (7) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/Screenshot (8).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+3.8 เลือก Radio Button ที่ Mix Mode (SQL Server authentiction and Windoes authentiction) และใส่รหัสผ่าน และ กดปุ่ม Add Current User และกดปุ่ม Next
 
 (!) สำหรับเพิ่ม Add Current User หากเป็นการทดสอบหรือไม่ได้ ขึ้น Product เราเพิ่มแค่ User เดียวก็เพียงพอแล้ว ส่วน Mix Mode (SQL Server authentiction and Windoes authentiction) หากต้องการลง Database ที่  Server เราควร ตั้ง User ผู้ใช้แบบไม่ใช้อันบนเพราะว่า จะทำให้สามารถ login ผ่าน User SA ได้ง่ายกว่า
 
@@ -154,7 +182,7 @@
 
 </div>
 
-3.8 กดปุ่ม Install
+3.9 กดปุ่ม Install
 
 (!) หากไม่ต้องการติดตั้งใดๆ แล้วสามารถปิดได้เลย
 

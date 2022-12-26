@@ -14,11 +14,11 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (2).png" alt=""><figcaption><p>กดปุ่ม Install</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (2) (1).png" alt=""><figcaption><p>กดปุ่ม Install</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (3) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
