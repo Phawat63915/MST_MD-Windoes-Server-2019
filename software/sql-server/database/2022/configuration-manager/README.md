@@ -14,8 +14,8 @@
 
 </div>
 
-{% content-ref url="services.md" %}
-[services.md](services.md)
+{% content-ref url="services/restart-sql-server.md" %}
+[restart-sql-server.md](services/restart-sql-server.md)
 {% endcontent-ref %}
 
 {% content-ref url="network-protocols.md" %}
