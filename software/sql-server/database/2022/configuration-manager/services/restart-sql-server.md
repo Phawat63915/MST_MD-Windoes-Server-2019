@@ -12,7 +12,7 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (95).png" alt=""><figcaption><p>เลือกรายการ Sql Server (************)</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (95) (1).png" alt=""><figcaption><p>เลือกรายการ Sql Server (************)</p></figcaption></figure>
 
  
 
@@ -20,6 +20,6 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (99) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>

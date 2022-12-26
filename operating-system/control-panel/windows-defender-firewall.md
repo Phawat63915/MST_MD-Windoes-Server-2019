@@ -4,17 +4,17 @@
 
 1.1 ค้นหาโปรแกรม Control Panel
 
-<figure><img src="../../.gitbook/assets/Screenshot (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (100) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.2 กดที่ View by: Category และ ปรับเป็น Small icons และ เลือกที่เมนู Windoes Defender Firewall
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot (104).png" alt=""><figcaption><p>กดที่ View by: Category และ ปรับเป็น Small icons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (104) (1).png" alt=""><figcaption><p>กดที่ View by: Category และ ปรับเป็น Small icons</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screenshot (105).png" alt=""><figcaption><p>กดที่ เมนู Windoes Defender Firewall</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (105) (1).png" alt=""><figcaption><p>กดที่ เมนู Windoes Defender Firewall</p></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screenshot (107).png" alt=""><figcaption><p>กดที่หมวดหมู่ Advanced settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot (107) (1).png" alt=""><figcaption><p>กดที่หมวดหมู่ Advanced settings</p></figcaption></figure>
 
  
 
