@@ -1,4 +1,4 @@
-# How to Open & Remote
+# Open & Remote
 
 ## 1.Open Sql Server Management Studio
 
