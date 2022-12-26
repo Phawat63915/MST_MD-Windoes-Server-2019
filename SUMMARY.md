@@ -26,6 +26,6 @@
         * [Tasks](software/sql-server/management-studio/19/how-to/page-3.md)
           * [Back Up](software/sql-server/management-studio/19/how-to/tasks/back-up.md)
           * [Restore](software/sql-server/management-studio/19/how-to/tasks/restore.md)
-          * [Import Flat File CRV](software/sql-server/management-studio/19/how-to/tasks/import-flat-file-crv.md)
+          * [Import Flat File Excel](software/sql-server/management-studio/19/how-to/tasks/import-flat-file-excel.md)
           * [Import Data](software/sql-server/management-studio/19/how-to/tasks/import-data.md)
           * [Export Data](software/sql-server/management-studio/19/how-to/tasks/export-data.md)
