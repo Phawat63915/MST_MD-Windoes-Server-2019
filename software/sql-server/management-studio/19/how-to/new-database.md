@@ -8,11 +8,11 @@
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (23) (1).png" alt=""><figcaption><p>เลือกที่ Database กดคลิกขวา</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (23) (1) (1).png" alt=""><figcaption><p>เลือกที่ Database กดคลิกขวา</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (24) (1).png" alt=""><figcaption><p>ตั้งชื่อ Database name: (ใส่ชื่อที่ต้องการ)</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (24) (1) (1).png" alt=""><figcaption><p>ตั้งชื่อ Database name: (ใส่ชื่อที่ต้องการ)</p></figcaption></figure>
 
  
 
@@ -20,7 +20,7 @@
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

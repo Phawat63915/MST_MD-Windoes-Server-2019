@@ -26,7 +26,7 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (32).png" alt=""><figcaption><p>เลือกไฟล์ .Csv Excel ที่จะ Import</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (32) (1).png" alt=""><figcaption><p>เลือกไฟล์ .Csv Excel ที่จะ Import</p></figcaption></figure>
 
  
 
@@ -62,7 +62,7 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (39).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (39) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 

@@ -20,7 +20,7 @@
 
 2.1 ไปที่ Connect to Server ที่ขึ้นมาจากนั้นไปที่หัวข้อ Server name: ใส่ IPv4 ของเครื่อง Database Server ที่เราจะ Remote เข้าไป
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (22).png" alt=""><figcaption><p>ใส่ IPv4 ของเครื่อง, port เช่น 192.168.56.23, 1433</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (22) (1).png" alt=""><figcaption><p>ใส่ IPv4 ของเครื่อง, port เช่น 192.168.56.23, 1433</p></figcaption></figure>
 
 2.2 ไปที่ Connect to Server และไปที่ Authentication ปรับประเภท เป็น Sql Server Authentication
 
@@ -44,7 +44,7 @@
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (21) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

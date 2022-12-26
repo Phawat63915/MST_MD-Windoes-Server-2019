@@ -28,7 +28,7 @@
 
  
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

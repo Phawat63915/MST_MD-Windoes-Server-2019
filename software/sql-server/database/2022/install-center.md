@@ -52,11 +52,11 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (23).png" alt=""><figcaption><p>เลือก Specify a free edtion เป็น Developer</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (23) (1).png" alt=""><figcaption><p>เลือก Specify a free edtion เป็น Developer</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (24).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (24) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (26) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (26) (1) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
@@ -92,7 +92,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (32) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (32) (1) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
@@ -110,7 +110,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (39) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (39) (1) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
