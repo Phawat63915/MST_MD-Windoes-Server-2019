@@ -88,11 +88,11 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (31).png" alt=""><figcaption><p>ติด CheckBox Azure Extension for SQL Server ออก</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (31) (1).png" alt=""><figcaption><p>ติด CheckBox Azure Extension for SQL Server ออก</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (32).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (32) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
 </div>
 
@@ -102,15 +102,15 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (37).png" alt=""><figcaption><p>ติก CheckBox Database Engine</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (37) (1).png" alt=""><figcaption><p>ติก CheckBox Database Engine</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (38).png" alt=""><figcaption><p>ติด CheckBox Full-Text and Semantic Extractions for Search</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (38) (1).png" alt=""><figcaption><p>ติด CheckBox Full-Text and Semantic Extractions for Search</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (39).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (39) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
@@ -124,7 +124,7 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (44).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (44) (1).png" alt=""><figcaption><p>กดปุ่ม Next</p></figcaption></figure>
 
  
 
