@@ -28,7 +28,7 @@
 
  
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot (20) (1).png" alt=""><figcaption><p>เลือกหัวข้อ Installation</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot (20) (1) (1).png" alt=""><figcaption><p>เลือกหัวข้อ Installation</p></figcaption></figure>
 
  
 

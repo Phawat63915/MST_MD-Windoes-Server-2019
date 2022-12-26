@@ -40,7 +40,7 @@
 
  
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (19).png" alt=""><figcaption><p>กดปุ่ม Connect</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (19) (1).png" alt=""><figcaption><p>กดปุ่ม Connect</p></figcaption></figure>
 
  
 
