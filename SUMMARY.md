@@ -22,5 +22,5 @@
       * [Install](software/sql-server/management-studio/19/install.md)
       * [How to](software/sql-server/management-studio/19/how-to/README.md)
         * [How to Open & Remote](software/sql-server/management-studio/19/how-to/how-to-open-and-remote.md)
-        * [Page 2](software/sql-server/management-studio/19/how-to/page-2.md)
+        * [New Database](software/sql-server/management-studio/19/how-to/new-database.md)
         * [Page 3](software/sql-server/management-studio/19/how-to/page-3.md)
