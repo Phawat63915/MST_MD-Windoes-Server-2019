@@ -183,3 +183,11 @@
 {% content-ref url="../../../../operating-system/control-panel/windows-defender-firewall.md" %}
 [windows-defender-firewall.md](../../../../operating-system/control-panel/windows-defender-firewall.md)
 {% endcontent-ref %}
+
+และไปตั้งค่า Network Protocols เพื่อเพิ่ม class ip ใน whitelist เพื่อให้ Services อนุาญาติ ให้ Sql Management Studio สามารถ Remote เข้าไปได้ เราสามารถไปทำตามได้ที่หัวข้อ Network Protocols
+
+{% content-ref url="configuration-manager/network-protocols.md" %}
+[network-protocols.md](configuration-manager/network-protocols.md)
+{% endcontent-ref %}
+
+และจะต้องไป Resstart Servies ด้วยเพื่อให้ config ใหม่ที่เราได้ตั้งค่าใน NetWork Protocols ถูกเรียกใช้งาน
