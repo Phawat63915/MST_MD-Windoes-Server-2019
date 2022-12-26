@@ -48,7 +48,7 @@
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot (90).png" alt=""><figcaption><p>กดปุ่ม ok</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot (90) (1).png" alt=""><figcaption><p>กดปุ่ม ok</p></figcaption></figure>
 
  
 
